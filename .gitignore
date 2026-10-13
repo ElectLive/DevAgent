@@ -4,6 +4,9 @@ CLAUDE.md
 # Private planning docs — not for version control
 plans/
 
+# Agent playbooks / local automation instructions (not for version control)
+.agent/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
